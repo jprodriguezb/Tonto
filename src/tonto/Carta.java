@@ -9,6 +9,6 @@ package tonto;
  *
  * @author jprod
  */
-public class Jugador {
-    private int codigo;
+public class Carta {
+    
 }
